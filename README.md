@@ -1,4 +1,5 @@
 # Artikel-Hasil-eksperimen
+<img width="1512" height="800" alt="image" src="https://github.com/user-attachments/assets/7c3c66ac-a8c4-4d9d-b4c0-165d6f164cda" />
 <img width="751" height="312" alt="image" src="https://github.com/user-attachments/assets/dcd41454-b126-491e-ba44-4929a6f2db35" />
 <img width="807" height="426" alt="image" src="https://github.com/user-attachments/assets/0b983603-2331-44ca-a7ad-e7ad9580a534" />
 <img width="766" height="449" alt="image" src="https://github.com/user-attachments/assets/9104c477-bba9-459d-9e11-4cd62fd89547" />
